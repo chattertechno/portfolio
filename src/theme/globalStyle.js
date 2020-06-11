@@ -3,7 +3,7 @@ import { ColorScheme } from './styleConstants';
 
 injectGlobal`
   @import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight');
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+  @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
   body {
     height: 100%;
@@ -13,7 +13,7 @@ injectGlobal`
   }
 
   h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Sriracha', cursive;
   }
 
   hr {

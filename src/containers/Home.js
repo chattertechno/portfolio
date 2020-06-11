@@ -6,15 +6,15 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <CenteredHeader>Hi! I'm Sophia. I'm a software developer based in NYC.</CenteredHeader>
+        <CenteredHeader>Hi! I'm Renee . I'm a Chief Technical officer and also a software Engineer.</CenteredHeader>
         <p>
-          I've worked throughout the stack, but I especially love building React UI. I currently build software for the newsroom at the New York Times.
+          I'm 19 years old and currently based in Dar Es Salaam Tanzania with CITL INTERNATIONAL which deals with Blockchain Products and Cryptocurrencies innovation. I have passion with Cryptocurrencies and built Connect Coin. 
         </p>
         <p>
-          ​Outside of code, I like to create in other ways. From <a href="https://medium.com/@sophiaciocca/latest" target="_blank">blogging</a> to <a href="https://www.youtube.com/channel/UChfrVcFHC-mfoqrJHuOYt-Q" target="_blank">music-making</a>, <a href="http://sophiacioccaphotography.tumblr.com/" target="_blank">photography</a> to <a href="https://www.instagram.com/sidewalk_poetry/" target="_blank">guerilla sidewalk chalk street art</a>, I'm always trying new ways of expressing myself. I also like to meditate, talk to strangers, and run lifestyle experiments.
+          ​Outside of code, I do crypto and forex trading. As I have been one of the mentor at one of our firm Citl Academy
         </p>
         <p>
-           Previously, I've <a href="https://www.gracehopper.com/" target="_blank">taught code to women</a>, served in the Peace Corps, and management consulted for Fortune 100 companies. I also hold a degree in economics from the University of Pennsylvania.
+           Previously, I was the founder and CEO of the crypto startup Tembocoin in which I resigned in July 2018 to pursue in my studies. Other than that Am a student Currently taking on Information, communication and technology.
         </p>
       </div>
     );

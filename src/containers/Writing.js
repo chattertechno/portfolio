@@ -12,7 +12,7 @@ class Writing extends Component {
     return (
       <div>
         <div>
-          <CenteredHeader>I write about tech, life, and personal development.</CenteredHeader>
+          <CenteredHeader>I Post What I love about Tech And Here are some of them.</CenteredHeader>
         </div>
         <h5>Tech-related:</h5>
         <ul>
@@ -64,9 +64,6 @@ class Writing extends Component {
             <Date>December 30, 2016</Date>
           </li>
         </ul>
-        <div>
-          <CenteredHeader>Read more on <a href="https://medium.com/@sophiaciocca/latest" target="_blank"><i className="fa fa-medium fa-fw" />Medium</a>.</CenteredHeader>
-        </div>
       </div>
     );
   }

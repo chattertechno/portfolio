@@ -35,7 +35,7 @@ class Contact extends Component {
         <CenteredHeader>Get in touch with me!</CenteredHeader>
 
         <FormDiv>
-          <form action="https://formspree.io/sophiaciocca@gmail.com" method="POST" id="contactform">
+          <form action="https://formspree.io/mgenyypo" method="POST" id="contactform">
             <div>
               <FormLabel>Name:</FormLabel>
               <FormInput type="text" name="name" />
@@ -52,7 +52,7 @@ class Contact extends Component {
           </form>
         </FormDiv>
 
-        <EmailMe>Or, just email me directly at <a href="mailto:sophiaciocca@gmail.com" target="_blank"><strong>sophiaciocca@gmail.com</strong></a>.</EmailMe>
+        <EmailMe>Or, just email me directly at <a href="mailto:admin@reneekrom.site" target="_blank"><strong>admin@reneekrom.site</strong></a>.</EmailMe>
 
         {/* <hr/> */}
         {/* <CenteredHeader><PortButton href="https://drive.google.com/file/d/0B-Wn-csD32OpVmUyVXFVa0JJakE/view" target="_blank">Download My Resume</PortButton></CenteredHeader> */}
