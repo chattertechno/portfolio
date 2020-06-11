@@ -10,4 +10,6 @@ Previously, I was the founder and CEO of the crypto startup Tembocoin in which I
 
 ---
 
+SHOUT OUT TO SOPHIA FOR HER GREAT AND CLEAN CODE
+
 © 2020 Renee Krom
